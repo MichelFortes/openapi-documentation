@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@scalar/express-api-reference": "^0.4.3",
+    "express": "^4.19.2"
+  }
+}
